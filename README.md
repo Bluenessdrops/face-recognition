@@ -9,7 +9,7 @@ download url. maybe not useful if u don't use this app↑
 
 使用了Dlib检测人脸，opencv和PyQT5做可视化效果，卷积神经网络做人脸比对。关于Dlib和nvidia cuda/cudnn的正确安装请参考这篇文章→https://blog.csdn.net/bluenessdrops/article/details/105025266
 
-Dlib is used for face detection,and PyQT5 for GUI,CNN for recognition. as for correct install for Dlib/cuda/cudnn, plz read this article(i feel really sry if u can't read Chinese. my engish is not good enough for writing such an long blog):https://blog.csdn.net/bluenessdrops/article/details/105025266
+Dlib is used for face detection,and PyQT5 for GUI,CNN for recognition. as for correct install for Dlib/cuda/cudnn, plz read this article(i feel really sry if u can't read Chinese. my english is not good enough for writing such an long blog):https://blog.csdn.net/bluenessdrops/article/details/105025266
 
 根目录下的3个文件cap_frm_xx是用来从摄像头/图片/视频中抓取人脸用的。
 
