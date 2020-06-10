@@ -38,8 +38,8 @@ code2文件夹里面的都是独立调试文件。除了带func的两个文件�
 
 watch for save path, change them before debug.such as the path for image,model file,temp file or sth
 
-如果有问题需要up解决请在上述csdn的文章下留言。github经常不看
+如果有问题需要up解决请在描述栏的csdn网址下留言。github经常不看
 
-if u have question need to be solved, plz leave a message at my csdn(i just give u one of my article above). i rarely check my github. but if u insist....
+if u have question need to be solved, plz leave a message at my csdn(link at description). i rarely check my github. but if u insist....
 
 github is ok
