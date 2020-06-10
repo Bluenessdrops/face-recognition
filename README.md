@@ -40,4 +40,6 @@ watch for save path, change them before debug.such as the path for image,model f
 
 如果有问题需要up解决请在上述csdn的文章下留言。github经常不看
 
-if u have question need to be solved, plz leave a message at my csdn(i just give u one of my article above). i rarely check my github.
+if u have question need to be solved, plz leave a message at my csdn(i just give u one of my article above). i rarely check my github. but if u insist....
+
+github is ok
